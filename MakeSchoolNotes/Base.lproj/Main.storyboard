@@ -62,7 +62,7 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5Sc-Zf-pMp" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <exit id="1f6-LF-d5v" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
-            <point key="canvasLocation" x="1375" y="1049"/>
+            <point key="canvasLocation" x="1407" y="1033"/>
         </scene>
         <!--Notes-->
         <scene sceneID="dVN-r5-8ll">
@@ -140,6 +140,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="HST-KV-qX9"/>
+        <segue reference="o4K-wj-iDF"/>
     </inferredMetricsTieBreakers>
 </document>
